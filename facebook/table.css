@@ -1,0 +1,17 @@
+
+
+table,td,th
+{
+    border: solid ;
+    border-collapse: collapse;
+    
+}
+th
+{
+    background: blue;
+    color: white;
+}
+td
+{
+    background-color: lightblue;
+}
